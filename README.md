@@ -41,6 +41,20 @@ Along the way I'm building a collection of AI applications that demonstrate prac
 * AWS
 * Azure
 
+**Tools**
+
+* Cursor
+* Visual Studio Code
+* Claude Code
+* GitHub Copilot
+
+**Other Interests**
+
+* bolt.new
+* Supabase
+* Google Gemini
+* Google Antigravity
+
 ## What you'll find here
 
 Most of the repositories in this account are projects I'm actively building or maintaining. I value readable code, thoughtful architecture, and software that's easy to understand six months later.

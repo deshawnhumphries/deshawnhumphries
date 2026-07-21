@@ -54,6 +54,7 @@ Along the way I'm building a collection of AI applications that demonstrate prac
 * Supabase
 * Google Gemini
 * Google Antigravity
+* OpenAI Codex
 
 ## What you'll find here
 
